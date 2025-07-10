@@ -26,6 +26,7 @@ def convert_to_list(char_count):
         list_of_chars.append(char_dict)
     return list_of_chars
 
-def sort_on(char_list):
-    for i in char_list:
-        return i["num"]
+#def sort_on(char_list):
+#    for i in char_list:
+#        print(i)
+#       return i["num"]
